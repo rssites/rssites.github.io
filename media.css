@@ -231,4 +231,7 @@
     .socials{
         margin-right: 0;
     }
+    .swiper-slide img{
+        height: 350px;
+    }
 }
