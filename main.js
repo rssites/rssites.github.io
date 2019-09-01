@@ -14,9 +14,9 @@ $(document).ready(function () {
 		scrollChange: function($currentListItem) {             
 		}
 	});
-//$(window).on('beforeunload', function(){
-//	$(window).scrollTop(0);
-//})
+$(window).on('beforeunload', function(){
+  $(window).scrollTop(0);
+})
 $(function() {
 	$(window).scroll(function() {
 		var scroll = $(window).scrollTop();
