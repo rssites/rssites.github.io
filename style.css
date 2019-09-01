@@ -301,7 +301,7 @@ nav{
 .bg-callback{
 	float: left;
 	width: 50%;
-	background-image: url(portfolio/d1.jpg);
+	background-image: url(d1.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 600px;	
