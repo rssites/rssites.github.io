@@ -52,7 +52,7 @@ a:hover{
 }
 .head-img{
 	height: 760px;	
-	background-image: url(../img/head.jpg);
+	background-image: url(head.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
@@ -221,7 +221,7 @@ nav{
 /*-----------------About me--------------------*/
 .ab-img{
 	margin-top: 30px;
-	background-image: url(../img/ab.jpg);
+	background-image: url(ab.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 900px;
@@ -301,7 +301,7 @@ nav{
 .bg-callback{
 	float: left;
 	width: 50%;
-	background-image: url(../img/portfolio/d1.jpg);
+	background-image: url(portfolio/d1.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 600px;	
